@@ -3,7 +3,7 @@
 
 ### Array
 
-- [x] [1.Find pair with given sum in the array](http://www.techiedelight.com/find-pair-with-given-sum-array/)
+- [ ] [1.Find pair with given sum in the array](http://www.techiedelight.com/find-pair-with-given-sum-array/)
 
 - [ ] [2.Check if subarray with 0 sum is exists or not](http://www.techiedelight.com/check-subarray-with-0-sum-exists-not/)
 
@@ -11,27 +11,27 @@
 
 - [ ] [4.Sort binary array in linear time](http://www.techiedelight.com/sort-binary-array-linear-time/)
 
-[5.Find a duplicate element in a limited range array](http://www.techiedelight.com/find-duplicate-element-limited-range-array/)
+- [ ][5.Find a duplicate element in a limited range array](http://www.techiedelight.com/find-duplicate-element-limited-range-array/)
 
-[6.Find largest sub-array formed by consecutive integers](http://www.techiedelight.com/find-largest-sub-array-formed-by-consecutive-integers/)
+- [ ] [6.Find largest sub-array formed by consecutive integers](http://www.techiedelight.com/find-largest-sub-array-formed-by-consecutive-integers/)
 
-[7.Find maximum length sub-array having given sum](http://www.techiedelight.com/find-maximum-length-sub-array-having-given-sum/)
+- [ ] [7.Find maximum length sub-array having given sum](http://www.techiedelight.com/find-maximum-length-sub-array-having-given-sum/)
 
-[8.Find maximum length sub-array having equal number of 0’s and 1’s](http://www.techiedelight.com/find-maximum-length-sub-array-equal-number-0s-1s/)
+- [ ] [8.Find maximum length sub-array having equal number of 0’s and 1’s](http://www.techiedelight.com/find-maximum-length-sub-array-equal-number-0s-1s/)
 
-[9.Sort an array containing 0’s, 1’s and 2’s (Dutch national flag problem)](http://www.techiedelight.com/sort-array-containing-0s-1s-2s-dutch-national-flag-problem/)
+- [ ] [9.Sort an array containing 0’s, 1’s and 2’s (Dutch national flag problem)](http://www.techiedelight.com/sort-array-containing-0s-1s-2s-dutch-national-flag-problem/)
 
-[10.Inplace merge two sorted arrays](http://www.techiedelight.com/inplace-merge-two-sorted-arrays/)
+- [ ] [10.Inplace merge two sorted arrays](http://www.techiedelight.com/inplace-merge-two-sorted-arrays/)
 
-[11.Merge two arrays by satisfying given constraints](http://www.techiedelight.com/merge-two-arrays-satisfying-given-constraints/)
+- [ ] [11.Merge two arrays by satisfying given constraints](http://www.techiedelight.com/merge-two-arrays-satisfying-given-constraints/)
 
-[12.Find index of 0 to replaced to get maximum length sequence of continuous ones](http://www.techiedelight.com/find-index-0-replaced-get-maximum-length-sequence-of-continuous-ones/)
+- [ ] [12.Find index of 0 to replaced to get maximum length sequence of continuous ones](http://www.techiedelight.com/find-index-0-replaced-get-maximum-length-sequence-of-continuous-ones/)
 
-[13.Find maximum product of two integers in an array](http://www.techiedelight.com/find-maximum-product-two-integers-array/)
+- [ ] [13.Find maximum product of two integers in an array](http://www.techiedelight.com/find-maximum-product-two-integers-array/)
 
-[14.Shuffle a given array of elements (Fisher–Yates shuffle)](http://www.techiedelight.com/shuffle-given-array-elements-fisher-yates-shuffle/)
+- [ ] [14.Shuffle a given array of elements (Fisher–Yates shuffle)](http://www.techiedelight.com/shuffle-given-array-elements-fisher-yates-shuffle/)
 
-[15.Rearrange the array with alternate high and low elements](http://www.techiedelight.com/rearrange-the-array-with-alternate-high-and-low-elements/)
+- [ ] [15.Rearrange the array with alternate high and low elements](http://www.techiedelight.com/rearrange-the-array-with-alternate-high-and-low-elements/)
 
 [16.Find equilibrium index of an array](http://www.techiedelight.com/find-equilibrium-index-array/)
 
